@@ -1,4 +1,3 @@
-package com.amazon
 package labs.oops
 
 object OOBasicsKnowledgeCheck extends App {

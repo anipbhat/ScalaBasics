@@ -1,4 +1,3 @@
-package com.amazon
 package projects
 
 object HelloWorld extends App {
